@@ -1,0 +1,13 @@
+Hint 1: at 0x14002cb71, function signature is: 
+int __stdcall WinMain(
+     HINSTANCE hInstance, 
+     HINSTANCE hPrevInstance, 
+    LPSTR lpCmdLine, 
+    int nShowCmd)
+Hint 2: Look at threads
+
+What kind of anti-recovery does it do?
+What is the C2 server?
+What system fingerprinting info does it send to the server (FUN_1409180)?
+Bonus: What is the encryption algorithm that it uses?
+

@@ -1,0 +1,6 @@
+What is the IP address of the command-and-control (C2) server?
+What message does it send to the C2 server to check in?
+Where does it download its payloads from?
+Where does it store its payloads?
+How does it execute its payloads?
+

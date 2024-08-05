@@ -1,0 +1,6 @@
+What encoding does it use in Stage 1? 
+What encoding does it use in Stage 2? 
+What encryption does it use in Stage 2? 
+What is the key material?
+Bonus: What obfuscator does it use? 
+

@@ -1,0 +1,5 @@
+What encryption algorithm does it use to pack the payload?
+Where is the payload stored?
+What is the key?
+Hint: It’s in the function at location 0x004148A0
+

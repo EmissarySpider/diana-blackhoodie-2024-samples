@@ -1,0 +1,4 @@
+What kind of encoding does it use?
+What kind of encryption does it use?
+What is the key?
+
